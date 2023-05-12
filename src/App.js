@@ -9,7 +9,7 @@ function App() {
     setTimeout(() => {
       setIsLoaded(true);
     }, 3000);
-  }, []);
+  }, [setIsLoaded]);
 
   if (isLoaded) {
     return (
