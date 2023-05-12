@@ -12,24 +12,12 @@ Qalam AI is an app for generating unique and customizable images using machine l
 Here are three examples of images generated using Qalam AI:
 
 ## Landing Page
-<<<<<<< HEAD
-
-![Landing Page](https://cdn.discordapp.com/attachments/826184706575040582/1099398571029188679/image.png)
-
-## Home Page
-
-![Home Page](https://cdn.discordapp.com/attachments/826184706575040582/1099398601433698456/image.png)
-
-## Generated Image
-
-=======
 ![Landing Page](https://cdn.discordapp.com/attachments/826184706575040582/1099398571029188679/image.png)
 
 ## Home Page
 ![Home Page](https://cdn.discordapp.com/attachments/826184706575040582/1099398601433698456/image.png)
 
 ## Generated Image
->>>>>>> ba80b17f10b04fa55fc02b72a3d3dbfc586572b1
 ![Generated Image](https://cdn.discordapp.com/attachments/826184706575040582/1099398758183219362/image.png)
 
 ## Usage
