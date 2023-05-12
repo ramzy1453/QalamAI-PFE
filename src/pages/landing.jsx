@@ -9,7 +9,6 @@ const openai = new OpenAIApi(
 );
 
 export default function Landing() {
-  console.log(process.env.REACT_APP_OPENAI_API_KEY);
   const [isModalOpen, setIsModalOpen] = useState(false);
   const [prompt, setPrompt] = useState("");
 
